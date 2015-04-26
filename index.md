@@ -25,15 +25,19 @@ Start keeping track on the amount of sleep everyday with "Sleep"!
 
 source:http://www.health.com/health/gallery/thumbnails/0,,20459221,00.html
 
---- .class #id 
+--- 
 
 ## Shiny App: Sleep
 
-<div style='text-align: center;'>
-    <img height='300' src='Untitled.jpg' />
-</div>
+Sleep is every user's companion
 
---- .class #id 
+It helps to regulate the amount of sleep one should take by keeping track on the number of hours. 
+
+Eg.
+On Wednesday, person A has only slept 10 hours since Monday
+Using SLeep, he would be able to know straightaway that he should be getting an avg of 10 hours of sleep for the rest of the week.
+
+---
 
 ## Sleep: How it works
 
@@ -41,7 +45,7 @@ Magic number : EIGHT 8
 
 Calculation used in Sleep is based on the assumption that 8 hours of sleep each night gives optimal benefits 
 
-hoursNeeded=frac{(56-hours)}{(7-days)}
+hoursNeeded=(56-hours)/(7-days)
 
 where
 
@@ -49,8 +53,7 @@ hours : number of sleep time this week
 
 days : day of the week from 1 to 7 (1 being Monday and 7 being Sunday)
 
-
---- .class #id 
+---
 
 ## Credits
 
@@ -62,7 +65,5 @@ Facilitator - Kai Xin
 Start sleeping with Sleep!
 
 https://epepqep.shinyapps.io/Sleep/
-
---- .class #id 
 
 
